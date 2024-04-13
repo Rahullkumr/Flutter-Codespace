@@ -30,6 +30,8 @@ Flutter is a cross-platform UI framework by Google for building apps. Codespaces
 
     > You can find the link to access the app in your browser at any time by going to the ports view, right clicking on port 3000, and pressing "Open in Browser".
 
+    > If you get "Permission denied", use `chmod +x ./run.sh` and after that `./run.sh`
+
 7. That's it! Make changes in `lib/main.dart`, press "R" in the terminal, then refresh the page to see your changes appear quickly.
 
 ## Flutter Development
@@ -46,6 +48,3 @@ If you're using Chrome or another Chromium-based browser, you can open DevTools 
 
 When you're not using your codespace, deactivate it by going to [Codespaces](https://github.com/codespaces), pressing the 3 dots on the right side of the codespace, and pressing "Stop codespace". You can also deactivate it within the codespace by pressing "Codespaces" at the bottom left of VS Code and selecting "Stop Current Codespace".
 
-<br><br>
-
-Run any Flutter repository on Zapp website: <a href="https://zapp.run/assets/homepage/import-github.gif">refer this link </a>
